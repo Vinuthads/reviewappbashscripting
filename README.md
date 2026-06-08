@@ -19,7 +19,9 @@ Systemd
 #Usage
 
 git clone https://github.com/Vinuthads/reviewappbashscripting.git
+
 cd reviewappbashscripting
+
 ./reviewapp.sh
 
 **Future Enhancements**
